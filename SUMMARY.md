@@ -1,12 +1,13 @@
 # Table of contents
 
-* [Welcome to Manchester!](README.md)
-* [Bank Accounts](bank-accounts.md)
+* [Preface](README.md)
+* [Welcome to Manchester!](welcome-to-manchester.md)
 
-## Group 1
+## 🧳 Pre-Departure Prep
 
-* [Page 1](group-1/page-1.md)
+* [Important Documents](pre-departure-prep/important-documents.md)
+* [Essentials](pre-departure-prep/essentials.md)
 
-***
+## 🛬 Post Arrival
 
-* [Website](https://github.com/ppigm)
+* [Get to your Accommodation](post-arrival/get-to-your-accommodation.md)

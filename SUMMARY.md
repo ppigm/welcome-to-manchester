@@ -10,4 +10,4 @@
 
 ## 🛬 Post Arrival
 
-* [What to Do First?](post-arrival/get-to-your-accommodation.md)
+* [What to Do First?](post-arrival/todo.md)

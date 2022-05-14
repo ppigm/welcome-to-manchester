@@ -1,6 +1,6 @@
 # Essentials
 
-<p> You may want to bring a few essentials to Manchester, such as </p>
+<p> You may want to bring a few **essentials** to Manchester, such as </p>
 
 - [ ] Personal medication 
 - [ ] Indonesian food or spices

@@ -11,3 +11,4 @@
 ## 🛬 Post Arrival
 
 * [What to Do First?](post-arrival/todo.md)
+* [What to Do Next?](post-arrival/todoafter.md)

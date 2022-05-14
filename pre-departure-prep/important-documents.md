@@ -1,5 +1,5 @@
-- ([ ]) Passport
-- ([ ]) CAS letter
-- ([ ]) Proof of Accomodation
-- ([ ]) 
+- [ ] Passport
+- [ ] CAS letter
+- [ ] Proof of Accomodation
+- [ ] 
 

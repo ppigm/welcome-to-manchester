@@ -1,4 +1,4 @@
-### Prior to departure, there are several things you have to pay attention to.
+Prior to departure, there are several things you have to pay attention to.
 
 - [ ] Passport
 - [ ] CAS letter

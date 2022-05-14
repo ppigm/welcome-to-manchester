@@ -16,3 +16,4 @@
 ## Life in Manchester
 
 * [General Information](mcrlife/generalinfo.md)
+* [Worship Places](mcrlife/worshipplace.md)

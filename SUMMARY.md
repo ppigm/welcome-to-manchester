@@ -17,3 +17,4 @@
 
 * [General Information](mcrlife/generalinfo.md)
 * [Worship Places](mcrlife/worshipplace.md)
+* [Accommodation Information](mcrlife/accommodation.md)

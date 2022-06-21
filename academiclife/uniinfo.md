@@ -80,6 +80,49 @@ Time Higher Education ranking:
 
 <p align="center">
   <img src="../images/image13.png" height=50% width=50%>
-</p>
+</p>      
+
+### [University of Salford](https://www.salford.ac.uk/)     
+
+<p align="center">
+  <img src="../images/image1.png" height=25% width=25%>
+</p>    
+
+The University of Salford is a public university in Salford, Greater Manchester, England, 1 mile (1.6 kilometers) west of Manchester city center. The Royal Technical Institute, Salford, which opened in 1896, became a College of Advanced Technology in 1956 and gained university status in 1967, following the Robbins Report on higher education.      
+
+It has 21,500 students and is on 160 acres (65 hectares) of parkland on the banks of the River Irwell.    
+
+_Source: [https://en.wikipedia.org/wiki/University_of_Salford](https://en.wikipedia.org/wiki/University_of_Salford)_      
+
+**Rankings(2022)**    
+
+<p align="center">
+  <img src="../images/image6.png" height=30% width=30%>
+</p>      
+
+_Source: Wikipedia, from multiple university ranking providers_     
+
+### [Into Manchester](https://www.intostudy.com/) - College/Foundation     
+
+<p align="center">
+  <img src="../images/image65.png" height=30% width=30%>
+</p>    
+
+INTO University Partnerships is a British pathway education provider focused on the provision of foundation courses for international students. The INTO Manchester Study Centre is located in Bridgewater House, an impressive Edwardian building, right in the heart of bustling Manchester. It offers you the chance to study in one of the most exciting and culturally diverse cities in the world.      
+
+The Centre's facilities have been designed with students like you in mind. You can take advantage of well-equipped classrooms and multimedia resources, giving you everything you need to study and socialize in one location. Our academic programs are taught in a similar way to what you'll experience at university and our English language classes are taught in an interactive, inclusive classroom environment to help build your language skills through classroom participation.     
+
+The Centre is also home to our friendly Student Services team, who are on hand to help. They understand the challenges that come with studying abroad and provide a dedicated network of support. From visa and immigration advice to opening your UK bank account; you're in safe hands.  
+
+
+### Other Universities in Greater Manchester    
+
+- [University of Bolton](https://www.bolton.ac.uk/)
+- [University Academy 92](https://ua92.ac.uk/)
+
+
+
+
+
 
 

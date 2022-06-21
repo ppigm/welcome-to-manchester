@@ -1,4 +1,4 @@
-## [University of Manchester](https://www.manchester.ac.uk/)    
+### [University of Manchester](https://www.manchester.ac.uk/)    
 <p align="center">
   <img src="../images/image25.png"/>
 </p>
@@ -10,7 +10,7 @@
 
 *Source: [https://en.wikipedia.org/wiki/University_of_Manchester](https://en.wikipedia.org/wiki/University_of_Manchester)*  
 
-### History <br>
+**History** <br>
 <div align="justify">Some of the world's most important achievements took place at Manchester. Our story is one of the world's first and most brilliant discoveries, with 25 Nobel Prize winners who have worked or studied here.
 </div> <br> 
 <div align="justify">Manchester is the birthplace of nuclear physics, where Ernest Rutherford first split the atom. The world’s first stored-program computer was developed here, and Alan Turing pioneered artificial intelligence during his time at the University.</div>
@@ -26,7 +26,7 @@ With a degree from The University of Manchester, you’ll become a part of this 
 *Source: [https://www.manchester.ac.uk/study/experience/reputation/history/](https://www.manchester.ac.uk/study/experience/reputation/history/)*
 <br>
 
-### Ranking(2022)  
+**Ranking(2022)**  
 <div align="justify">International rankings compare universities from across the globe for their research performance and academic reputation. The University of Manchester is proud to be among the world’s top 50 universities and one of the world's leading universities for its impact on the UN Sustainable Development Goals (Times Higher Education University Impact Rankings, 2022).
 </div> <br>
 

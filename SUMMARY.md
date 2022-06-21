@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Greetings Message](greetings.md)
-* [Welcome to Manchester!](welcome-to-manchester.md)
 
 ## 🧳 Pre-Departure Prep
 

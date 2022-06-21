@@ -3,7 +3,7 @@
 * [Greetings Message](greetings.md)
 * [Covid-19 Update](covid19update.md)
 
-## 🛬 Academic Life
+## Academic Life
 
 * [University Information](academiclife/uniinfo.md)
 * [What to Do Next?](post-arrival/todoafter.md)

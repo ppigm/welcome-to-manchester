@@ -1,11 +1,7 @@
 # Table of contents
 
 * [Greetings Message](greetings.md)
-
-## 🧳 Pre-Departure Prep
-
-* [Important Documents](pre-departure-prep/important-documents.md)
-* [Essentials](pre-departure-prep/essentials.md)
+* [Covid-19 Update](covid19update.md)
 
 ## 🛬 Post Arrival
 

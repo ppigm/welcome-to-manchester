@@ -1,5 +1,7 @@
 # Greetings Message 
 
+<img src="images/image26.jpg" width=300 height=450>
+
 Selamat datang di keluarga besar Manchester! Perkenalkan saya Rakha Djokosoetono, selaku ketua PPI Greater Manchester 2021/2022. Inisiatif penulisan handbook (buku panduan) elektronik ini adalah untuk mempermudah transisi kehidupan teman-teman yang hendak berpindah ke Manchester.
 
 Dalam buku ini, kami bahas perihal imigrasi, akomodasi, destinasi hiburan & liburan, dan lain lain dengan basis pengalaman & aturan pemerintah. Kami berharap informasi yang disampaikan dalam buku ini dapat membantu transisi kehidupan pembaca.

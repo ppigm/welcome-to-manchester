@@ -1,4 +1,4 @@
-### [University of Manchester](https://www.manchester.ac.uk/)    
+# [University of Manchester](https://www.manchester.ac.uk/)    
 <p align="center">
   <img src="../images/image25.png"/>
 </p>

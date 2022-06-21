@@ -5,7 +5,7 @@
 </div>
 
 Source:  
-https://www.gov.uk/guidance/travel-to-england-from-another-country-during-coronavirus-covid-19   
+[https://www.gov.uk/guidance/travel-to-england-from-another-country-during-coronavirus-covid-19](https://www.gov.uk/guidance/travel-to-england-from-another-country-during-coronavirus-covid-19)   
 (Updated 18 March 2022) 
 <div align="justify">For Covid 19 Vaccination, both appointment and walk in are available in some clinics for free provided by Manchester local government. In order to meet the increasing demand for vaccinations in select areas, walk in vaccination clinics will be opening alongside our other vaccination sites. To find out about the latest walk in clinics, you can sign up for email alerts. If you're over 16 and have had your first dose of the vaccine, you need to wait 8 weeks before having the second dose. If you're between the ages of 12 - 17 and booking a 2nd dose, you can book it from 12 weeks after getting your 1st dose.
 </div>
@@ -28,4 +28,4 @@ At most of our walk-in vaccination sites anyone aged five and over is eligible f
 3. At Beech Road Pharmacy you need to be over 16 to be vaccinated.   
 
 For detail clinics and update schedule can be checked  in : <br>
-https://www.manchester.gov.uk/info/500362/covid-19/8079/covid-19_vaccination_programme/5
+[https://www.manchester.gov.uk/info/500362/covid-19/8079/covid-19_vaccination_programme/5](https://www.manchester.gov.uk/info/500362/covid-19/8079/covid-19_vaccination_programme/5)

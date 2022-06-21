@@ -3,9 +3,9 @@
 * [Greetings Message](greetings.md)
 * [Covid-19 Update](covid19update.md)
 
-## 🛬 Post Arrival
+## 🛬 Academic Life
 
-* [What to Do First?](post-arrival/todo.md)
+* [University Information](academiclife/uniinfo.md)
 * [What to Do Next?](post-arrival/todoafter.md)
 
 ## Life in Manchester

@@ -85,7 +85,7 @@ Time Higher Education ranking:
 ### [University of Salford](https://www.salford.ac.uk/)     
 
 <p align="center">
-  <img src="../images/image1.png" height=25% width=25%>
+  <img src="../images/image1.png" height=15% width=15%>
 </p>    
 
 The University of Salford is a public university in Salford, Greater Manchester, England, 1 mile (1.6 kilometers) west of Manchester city center. The Royal Technical Institute, Salford, which opened in 1896, became a College of Advanced Technology in 1956 and gained university status in 1967, following the Robbins Report on higher education.      

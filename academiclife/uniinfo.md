@@ -1,13 +1,14 @@
-# [University of Manchester](https://www.manchester.ac.uk/)    
-<!-- <p align="center">
+# University Information 
+### [University of Manchester](https://www.manchester.ac.uk/)    
+<p align="center">
   <img src="../images/image25.png"/>
-</p> -->
+</p>
 <div align="justify">The University of Manchester is a public research university in Manchester, England. The main campus is south of Manchester City Centre on Oxford Road. The university owns and operates major cultural assets such as the Manchester Museum, The Whitworth (art gallery), the John Rylands Library, the Tabley House Collection, and the Jodrell Bank Observatory—a UNESCO World Heritage Site.</div> <br>   
-
+<br>
 <div align="justify">The University of Manchester is considered a red brick university, a product of the civic university movement of the late 19th century. The current University of Manchester was formed in 2004 following the merger of the University of Manchester Institute of Science and Technology (UMIST) and the Victoria University of Manchester. This followed a century of the two institutions working closely with one another.</div> <br>   
-
+<br>
 <div align="justify">The University of Manchester Institute of Science and Technology was founded in 1824 as the Mechanics' Institute. The founders believed that all professions somewhat relied on scientific principles. As such, the institute taught working individuals branches of science applicable to their existing occupations. They believed that the practical application of science would encourage innovation and advancements within those trades and professions. The Victoria University of Manchester was founded in 1851, like Owens College. Academic research undertaken by the university would be published via the Manchester University Press from 1904.</div> <br>    
-
+<br>
 <div align="justify">The University of Manchester is a member of the Russell Group, the N8 Group, and the worldwide Universities Research Association. The University of Manchester, inclusive of its predecessor institutions, has had 25 Nobel laureates amongst its past and present students and staff, the fourth-highest number of any single university in the United Kingdom. In 2020/21, the university had a consolidated income of £1.1 billion, of which £237.0 million was from research grants and contracts (6th place nationally behind Oxford, UCL, Cambridge, Imperial, and Edinburgh). It has the fifth-largest endowment of any university in the UK, after the universities of Cambridge, Oxford, Edinburgh, and King's College London.
 </div><br>
 

@@ -41,8 +41,45 @@ With a degree from The University of Manchester, you’ll become a part of this 
 <br>
 
 <p align="center">
-  <img src="../images/image32.png" height=75% width=75%>
+  <img src="../images/image32.png" height=50% width=50%>
 </p>
 <br>
 <br>
+
 *Source: [https://www.manchester.ac.uk/study/experience/reputation/rankings/](https://www.manchester.ac.uk/study/experience/reputation/rankings/)*
+
+### [Manchester Metropolitan University](https://www.mmu.ac.uk/)
+<p align="center">
+  <img src="../images/image34.png" height=25% width=25%>
+</p>    
+
+**Overview and History**      
+
+Manchester Metropolitan University (often abbreviated MMU) is a public research university located in Manchester, England. The university traces its origins to the Manchester Mechanics Institute and the Manchester School of Design, which formed Manchester Polytechnic in 1970. Manchester Polytechnic then gained university status under the government's Further and Higher Education Act, becoming the Manchester Metropolitan University in 1992.    
+
+Manchester Metropolitan University is an accredited member of the Association of MBAs, and a member of the University Alliance, the Association of Commonwealth Universities, the North West Universities Association, the Association to Advance Collegiate Schools of Business, and the European University Association.      
+
+Today, it is also home to the Manchester School of Art, the Manchester School of Theatre, as well as the Manchester School of Architecture (MSA) administered in collaboration with the University of Manchester.   
+
+The University's logo is derived from the upper part of the shield of the university's coat-of-arms, with six spade-irons positioned together, suggesting hard toil and entrenchment.   
+
+_Source: [https://en.wikipedia.org/wiki/Manchester_Metropolitan_University](https://en.wikipedia.org/wiki/Manchester_Metropolitan_University)_     
+
+**Mission**    
+We are a great, modern university, in a great global city, here to make an impact on Manchester, our nation, and beyond, with a driving ambition to discover and disseminate knowledge, and make higher education accessible and beneficial to all those with the passion and ability to succeed.     
+
+We work closely with our city, with business, the community, and our academic peers - locally, nationally, and internationally - to be inventive and creative, generate great opportunities and enable our students, colleagues, and everyone whose lives we touch to make an impact.      
+
+_Source: https://www.mmu.ac.uk/about-us/strategy/_    
+
+**Ranking(2022)**      
+
+#801-1000 2022  QS World University ranking    
+
+Time Higher Education ranking:     
+
+<p align="center">
+  <img src="../images/image13.png" height=50% width=50%>
+</p>
+
+

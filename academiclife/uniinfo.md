@@ -1,6 +1,6 @@
 ## [University of Manchester](https://www.manchester.ac.uk/)    
 <p align="center">
-  <img src="images/image25.png"/>
+  <img src="../images/image25.png"/>
 </p>
 <div align="justify">The University of Manchester is a public research university in Manchester, England. The main campus is south of Manchester City Centre on Oxford Road. The university owns and operates major cultural assets such as the Manchester Museum, The Whitworth (art gallery), the John Rylands Library, the Tabley House Collection, and the Jodrell Bank Observatory—a UNESCO World Heritage Site.</div> <br>
 <div align="justify">The University of Manchester is considered a red brick university, a product of the civic university movement of the late 19th century. The current University of Manchester was formed in 2004 following the merger of the University of Manchester Institute of Science and Technology (UMIST) and the Victoria University of Manchester. This followed a century of the two institutions working closely with one another.</div> <br>
@@ -31,7 +31,7 @@ With a degree from The University of Manchester, you’ll become a part of this 
 </div> <br>
 
 <p align="center">
-  <img src="images/image32.png" height=75% width=75%>
+  <img src="../images/image32.png" height=75% width=75%>
 </p>
 <br>
 *Source: [https://www.manchester.ac.uk/study/experience/reputation/rankings/](https://www.manchester.ac.uk/study/experience/reputation/rankings/)*

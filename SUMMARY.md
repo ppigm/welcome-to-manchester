@@ -6,7 +6,7 @@
 ## Academic Life
 
 * [University Information](academiclife/uniinfo.md)
-* [What to Do Next?](post-arrival/todoafter.md)
+* [Foundation & Undergraduate](academiclife/fdug.md)
 
 ## Life in Manchester
 

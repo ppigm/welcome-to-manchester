@@ -8,6 +8,7 @@
 * [University Information](academiclife/uniinfo.md)
 * [Foundation & Undergraduate](academiclife/fdug.md)
 * [Master and Doctorate Degree](academiclife/masterDr.md)
+* [First Step](academiclife/firststep.md)
 
 ## Life in Manchester
 

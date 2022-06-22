@@ -1,5 +1,5 @@
 # University Information 
-### [University of Manchester](https://www.manchester.ac.uk/)    
+## [University of Manchester](https://www.manchester.ac.uk/)    
 <p align="center">
   <img src="../images/image25.png"/>
 </p>
@@ -48,7 +48,7 @@ With a degree from The University of Manchester, you’ll become a part of this 
 
 *Source: [https://www.manchester.ac.uk/study/experience/reputation/rankings/](https://www.manchester.ac.uk/study/experience/reputation/rankings/)*
 
-### [Manchester Metropolitan University](https://www.mmu.ac.uk/)
+## [Manchester Metropolitan University](https://www.mmu.ac.uk/)
 <p align="center">
   <img src="../images/image34.png" height=25% width=25%>
 </p>    
@@ -82,7 +82,7 @@ Time Higher Education ranking:
   <img src="../images/image13.png" height=50% width=50%>
 </p>      
 
-### [University of Salford](https://www.salford.ac.uk/)     
+## [University of Salford](https://www.salford.ac.uk/)     
 
 <p align="center">
   
@@ -104,7 +104,7 @@ _Source: [https://en.wikipedia.org/wiki/University_of_Salford](https://en.wikipe
 
 _Source: Wikipedia, from multiple university ranking providers_     
 
-### [Into Manchester](https://www.intostudy.com/) - College/Foundation     
+## [Into Manchester](https://www.intostudy.com/) - College/Foundation     
 
 <p align="center">
   <img src="../images/image65.png" height=30% width=30%>
@@ -117,7 +117,7 @@ The Centre's facilities have been designed with students like you in mind. You c
 The Centre is also home to our friendly Student Services team, who are on hand to help. They understand the challenges that come with studying abroad and provide a dedicated network of support. From visa and immigration advice to opening your UK bank account; you're in safe hands.  
 
 
-### Other Universities in Greater Manchester    
+## Other Universities in Greater Manchester    
 
 - [University of Bolton](https://www.bolton.ac.uk/)
 - [University Academy 92](https://ua92.ac.uk/)

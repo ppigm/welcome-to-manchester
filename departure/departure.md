@@ -16,5 +16,5 @@ Find out the options along with their respective membership information. Here ar
 ### Qatar Airways   
 
 <p align="center">
-  <img src="images/image27.png"/>
+  <img src="../images/image27.png"/>
 </p>

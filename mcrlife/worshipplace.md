@@ -1,18 +1,18 @@
 # Worship Places
 There are numerous worship places located in Manchester. Here are a few based on each faith: 
 
-- 🛐**Christian** 
+- **Christian** 
     - Holy Trinity Platt Church
     - Christ Church Manchester (Fallowfield)
     - Christ Church Moss Side
 
-- ✝️ **Catholic**
+- **Catholic**
     - Holy Name Church
     - St Mary's RC Church (The Hidden Gem)
     - Manchester Universities’ Catholic Chaplaincy
     - St Augustine's  
 
-- ☪️ **Moslem**
+- **Moslem**
     - Manchester Central Mosque
     - Didsbury Central Mosque
     - Mosque Mcdougall Prayer Hall
@@ -20,10 +20,10 @@ There are numerous worship places located in Manchester. Here are a few based on
     - Al-Furqan Islamic Centre Manchester
     - Al-Falah Masjid (Islamic Centre)   
 
-- ☸️ **Buddha** 
+- **Buddha** 
     - Manchester Buddhist Centre  
 
-- 🕉️ **Hindu** 
+- **Hindu** 
     - Gita Bhavan Hindu Temple
     - Radha Krishna Mandir
     - International Society for Krishna Consciousness (ISKCON)

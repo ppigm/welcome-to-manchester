@@ -21,3 +21,4 @@
 * [Worship Places](mcrlife/worshipplace.md)
 * [Indonesian Communities in Manchester](mcrlife/community.md)
 * [Accommodation Information](mcrlife/accommodation.md)
+* [Telephone & Internet Provider](mcrlife/comms.md)

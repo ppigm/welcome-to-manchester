@@ -13,10 +13,10 @@ Personal medication, Indonesian food or spices, socket adaptor, batik and formal
 ## Popular Airlines    
 Find out the options along with their respective membership information. Here are a few examples.    
 
-### Qatar Airways   
+### Qatar Airway   
 
 <p align="center">
-  <img src="../images/image27.png" height=35% width= 35%>
+  <img src="../images/image27.png" height=5% width= 5%>
 </p>   
 
 One of the most popular airline is Qatar Airways, but unfortunately there is no direct flight from Indonesia - Manchester. At least it will need one-time transit in Doha, Qatar. This airline have student club program that might give you benefits such as:   

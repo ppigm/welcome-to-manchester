@@ -15,5 +15,8 @@
 * [Tier 4 Visa Application](departure/visa.md)
 * [Departure](departure/departure.md)
 * [Arrival](departure/arrival.md)
+
+## Life in Manchester
+* [General Info about Manchester](generalinfo.md)
 * [Worship Places](mcrlife/worshipplace.md)
 * [Accommodation Information](mcrlife/accommodation.md)

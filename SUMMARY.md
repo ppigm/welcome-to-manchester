@@ -23,3 +23,4 @@
 * [Accommodation Information](mcrlife/accommodation.md)
 * [Telephone & Internet Provider](mcrlife/comms.md)
 * [Transportation](mcrlife/transport.md)
+* [Bank Account](mcrlife/bankacc.md)

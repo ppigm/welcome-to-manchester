@@ -10,8 +10,8 @@
 * [Master and Doctorate Degree](academiclife/masterDr.md)
 * [First Step](academiclife/firststep.md)
 
-## Life in Manchester
+## Departure & Arrival
 
-* [General Information](mcrlife/generalinfo.md)
+* [Tier 4 Visa Application](mcrlife/generalinfo.md)
 * [Worship Places](mcrlife/worshipplace.md)
 * [Accommodation Information](mcrlife/accommodation.md)

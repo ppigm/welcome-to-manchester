@@ -12,6 +12,6 @@
 
 ## Departure & Arrival
 
-* [Tier 4 Visa Application](mcrlife/generalinfo.md)
+* [Tier 4 Visa Application](departure/visa.md)
 * [Worship Places](mcrlife/worshipplace.md)
 * [Accommodation Information](mcrlife/accommodation.md)

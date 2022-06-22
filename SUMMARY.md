@@ -19,4 +19,5 @@
 ## Life in Manchester
 * [General Info about Manchester](generalinfo.md)
 * [Worship Places](mcrlife/worshipplace.md)
+* [Indonesian Communities in Manchester](mcrlife/community.md)
 * [Accommodation Information](mcrlife/accommodation.md)

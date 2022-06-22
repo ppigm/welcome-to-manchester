@@ -70,8 +70,7 @@ Bring some cash as needed, but [do not bring more than](https://www.gov.uk/bring
 
 **If you need to transfer money from Indonesia**    
 there are a few providers, you can use  
-![Transfez](../images/image45.png)
 
-<p align="center">
-  <img src="../images/image45.png" height=40% width= 40%>
-</p> 
+![Transfez](../images/image45.png){width="800" height="600" style="display: block; margin: 0 auto"}
+
+

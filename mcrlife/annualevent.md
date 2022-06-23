@@ -1,7 +1,7 @@
 # Annual Events     
 There are numerous events you can go to during your life in Manchester:      
 
-| Events                                | Venue                                               | Month             |
+| **Events**                                | **Venue**                                               | **Month**             |
 |---------------------------------------|-----------------------------------------------------|-------------------|
 | Chinese New Year Festival             | St Ann’s Square, Market Street, and Albert Square.  | January-February  |
 | Wonder Women                          | Various venues                                      | March             |

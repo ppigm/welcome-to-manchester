@@ -27,3 +27,4 @@
 * [Useful Apps](mcrlife/apps.md)
 * [Entertainment](mcrlife/entertainment.md)
 * [Annual Events](mcrlife/annualevent.md)
+* [Tourist Attractions](mcrlife/tourist.md)

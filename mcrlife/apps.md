@@ -28,9 +28,9 @@
 ![](../images/studentdis.png)    
 
 ### Online Banking    
-<!-- ![](../images/money.png)     
+![](../images/money.png)     
 
-![](../images/money2.png)    -->
+![](../images/money2.png)   
 
 
 ### Health    

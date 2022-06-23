@@ -28,3 +28,5 @@
 * [Entertainment](mcrlife/entertainment.md)
 * [Annual Events](mcrlife/annualevent.md)
 * [Tourist Attractions](mcrlife/tourist.md)
+* [Supermarket](mcrlife/supermarket.md)
+* [Restaurant & Café](mcrlife/resto.md)

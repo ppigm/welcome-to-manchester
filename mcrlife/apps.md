@@ -6,11 +6,7 @@
 
 ![](../images/travelp1.png)    
 
-![](../images/travelp2.png)      
-
-### Online Shopping    
-
-![](../images/travelp3.png)
+![](../images/travelp2.png)     
 
 <!-- ![Trainline](../images/image53.png)      ![National Express](../images/image52.png)    
 
@@ -20,4 +16,14 @@
 
 ![Uber](../images/image58.jpg)    
  -->
+
+### Online Shopping    
+
+![](../images/travelp3.png)
+
+### Thrifting     
+![](../images/image63.jpg)      ![](../images/image64.png)    
+
+
+
 

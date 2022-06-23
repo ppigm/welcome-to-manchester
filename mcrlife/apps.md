@@ -6,7 +6,11 @@
 
 ![](../images/travelp1.png)    
 
-![](../images/travelp2.png)    
+![](../images/travelp2.png)      
+
+### Online Shopping    
+
+![](../images/travelp3.png)
 
 <!-- ![Trainline](../images/image53.png)      ![National Express](../images/image52.png)    
 

@@ -26,3 +26,4 @@
 * [Bank Account](mcrlife/bankacc.md)
 * [Useful Apps](mcrlife/apps.md)
 * [Entertainment](mcrlife/entertainment.md)
+* [Annual Events](mcrlife/annualevent.md)

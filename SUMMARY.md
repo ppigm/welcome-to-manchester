@@ -24,3 +24,4 @@
 * [Telephone & Internet Provider](mcrlife/comms.md)
 * [Transportation](mcrlife/transport.md)
 * [Bank Account](mcrlife/bankacc.md)
+* [Useful Apps]()mcrlife/apps.md)

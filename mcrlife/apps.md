@@ -22,7 +22,20 @@
 ![](../images/travelp3.png)
 
 ### Thrifting     
-![](../images/image63.jpg)      ![](../images/image64.png)    
+![](../images/thrift.png)     
+
+### Student Discount      
+![](../images/studentdis.png)    
+
+### Online Banking    
+![](../images/money.png)     
+
+![](../images/money2.png)   
+
+
+### Health    
+![](../images/health.png)   
+
 
 
 

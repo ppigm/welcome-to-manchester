@@ -1,3 +1,3 @@
 # Tourist Attractions    
-- ![Manchester Museum](../images.image14.jpg)   
+- ![Manchester Museum](../images/image14.jpg)   
 - 

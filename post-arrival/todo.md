@@ -1,7 +1,7 @@
 # What to Do First
 ## Getting to your accommodation from airport  
 There are a few ways to reach your accommodation. Each charge as follows :  
-* 🚖 £30-35
+* 🚖 £30-40
 * 🚘 £25-30 
 * 🚆 £3-4  
 
